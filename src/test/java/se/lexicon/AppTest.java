@@ -1,8 +1,11 @@
 package se.lexicon;
 
-//import static org.junit.Assert.assertEquals;
-//import static org.junit.Assert.assertTrue;
-//import static org.junit.Assert.assertFalse;
+
+/* These imports are no longer need because of line 9.
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.assertFalse;
+*/
 import static org.junit.Assert.*;
 
 import org.junit.Test;

@@ -1,15 +1,17 @@
-Juint Framework - 3rd party lib.
+# Juint Framework - 3rd party lib.
 
-What?
-testing lib
+### What?
+- testing lib
+- Helps us creating a testing environment.
+- 
 
-Why?
-make sure that our code does what we intend it to do.
-breaking points, we know when it works.
-*Refactoring
+### Why?
+- Make sure that our code does what we intend it to do.
+- Helps understand the intentions of the program.
+- Helps when it's time to refactor. (Come back and upgrade at a later time.)
 
-How?
-Pom.xml library
-Test "Scope"
-Import the classes
-Annotations = @Test, @Before, @After
+### How?
+- Add dependency to Pom.xml 
+- Used in Test "Scope".  
+- Import the class.  
+- Annotations = @Test, @Before, @After  
